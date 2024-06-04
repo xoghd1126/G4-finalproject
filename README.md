@@ -26,4 +26,4 @@ We brainstormed and made decisions while each of us came up with ideas for digit
 + How user-friendly is the tool for both teachers and students?
 + What kind of interactive features does the tool offer to engage students?
 
-6/04 Third meeting
+🗓 6/04 Third meeting
