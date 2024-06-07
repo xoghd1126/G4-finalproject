@@ -6,7 +6,14 @@
 + Student : Taehong
 
 🗓 5/21 First meeting
-
+| situation | Teachers recommend 'Classcard' that students study English words |
+|------| --------------------------------|
+| Student 1 | After the break, it's a word test, but I don't know many words properly yet. |
+| Student 2 | Me too. I've spent a lot of time this week, and it's still hard. |
+| Student 3 |What should we do? In order to get a score on the test, we have to remember a lot of difficult words... |
+| Student 1 | Teacher, I don't remember the spelling and meaning of English words. |
+| Student 3 | Me too. I prepared really hard for the vocabulary test this week. |
+| Teacher | Everyone, seeing that I keep failing the English word test, I think I have a problem with my learning method. |
 
 🗓 5/28 Second meeting 
 
