@@ -30,6 +30,11 @@
 | hugging face |What should we do? In order to get a score on the test, we have to remember a lot of difficult words... |
 | presentation | Teacher, I don't remember the spelling and meaning of English words. |
 
+          To solve this problem, I'll recommend an app called ‘class card’. 
+          
+          This app offers various functions to make English words easier to learn and remember. 
+          
+          You will get better results on your next test.
 
 ### Our story
 The Lighthouse Keeper’s Lantern
