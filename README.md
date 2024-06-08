@@ -33,9 +33,9 @@
 
           assignments
           
-         First, each group can listen to the voice made by AI.
-         Second, After listening to this, you 
-         Third, one member of each group should upload on the padlet. 
+         First, Divide the story area into groups
+         Second, Listening to pronunciation with ai voice
+         Third, Record the content and upload it to the padlet
          
           
           
