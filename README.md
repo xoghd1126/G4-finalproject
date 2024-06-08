@@ -19,8 +19,8 @@
 |------| --------------------------------|
 | Summary video | Showing a video of the story |
 | Audio book | Let's play one sentence at a time with the audiobook |
-| vocabulary | In the story, the words in the wordcloud are blank, and the students fill in the part by themselves |
-| grammar | The student corrects each sentence with errors through the grammar learned in the last class |
+| Vocabulary | In the story, the words in the wordcloud are blank, and the students fill in the part by themselves |
+| Grammar | The student corrects each sentence with errors through the grammar learned in the last class |
 
 🗓 6/04 Third meeting
 | Closing |  |
@@ -30,7 +30,7 @@
 | Review | Solving the wrong question again through the AI voice |
 
 
-          📚assignments📚
+          📚Assignments📚
           
          1️⃣ Divide the story area into groups
          2️⃣ Listening to pronunciation with ai voice
