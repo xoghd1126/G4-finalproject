@@ -9,10 +9,10 @@
 
 | Opening |  |
 |------| --------------------------------|
-| Word cloud | After the break, it's a word test, but I don't know many words properly yet. |
-| Group activity | Me too. I've spent a lot of time this week, and it's still hard. |
-| Hugging face |What should we do? In order to get a score on the test, we have to remember a lot of difficult words... |
-| Presentation | Teacher, I don't remember the spelling and meaning of English words. |
+| Word cloud | a collection of words about a story |
+| Group activity | Make 4 sentences by guessing the story using the words in the word cloud |
+| Hugging face | Make a four-cut cartoon with 4 sentences you made |
+| Presentation | Post it on the padlet and present it in groups |
 
 🗓 5/28 Second meeting 
 | Lesson |  |
