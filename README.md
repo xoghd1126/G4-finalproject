@@ -30,16 +30,16 @@
 | Review | Solving the wrong question again through the AI voice |
 
 
-          assignments
+          📚assignments📚
           
-         First, Divide the story area into groups
-         Second, Listening to pronunciation with ai voice
-         Third, Record the content and upload it to the padlet
+         1️⃣ Divide the story area into groups
+         2️⃣ Listening to pronunciation with ai voice
+         3️⃣ Record the content and upload it to the padlet
          
           
           
 
-### Our story
+### 📖 Our story
 The Lighthouse Keeper’s Lantern
 
 In a small coastal town edged by jagged cliffs and vast, open sea, stood an old lighthouse that had guarded the mariners for generations. The lighthouse keeper, Mr. Elias, was an elderly man who had spent many years ensuring the light never failed, keeping ships safe from the dangerous rocks below.
