@@ -17,18 +17,17 @@
 🗓 5/28 Second meeting 
 | Lesson |  |
 |------| --------------------------------|
-| Summary video | After the break, it's a word test, but I don't know many words properly yet. |
-| Audio book | Me too. I've spent a lot of time this week, and it's still hard. |
-| vocabulary |What should we do? In order to get a score on the test, we have to remember a lot of difficult words... |
-| grammar | Teacher, I don't remember the spelling and meaning of English words. |
+| Summary video | Showing a video of the story |
+| Audio book | Let's play one sentence at a time with the audiobook |
+| vocabulary | In the story, the words in the wordcloud are blank, and the students fill in the part by themselves |
+| grammar | The student corrects each sentence with errors through the grammar learned in the last class |
 
 🗓 6/04 Third meeting
 | Closing |  |
 |------| --------------------------------|
-| Quiz | After the break, it's a word test, but I don't know many words properly yet. |
-| Quiz | Me too. I've spent a lot of time this week, and it's still hard. |
-|  |What should we do? In order to get a score on the test, we have to remember a lot of difficult words... |
-| presentation | Teacher, I don't remember the spelling and meaning of English words. |
+| Quiz | True or False question |
+| Quiz | Sequential Arrangement Question |
+| Review | Solving the wrong question again through the AI voice |
 
 
           assignments
