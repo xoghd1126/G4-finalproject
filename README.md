@@ -1,9 +1,9 @@
 # G4-final project
 🙌🏻 The roles of members
 
-+ Coder : Jiham
-+ Teacher : Daeun 
-+ Student : Taehong
++ Coder : Jiham 👩‍💻
++ Teacher : Daeun 👩‍🏫
++ Student : Taehong 👨‍🎓
 
 🗓 5/21 First meeting
 
