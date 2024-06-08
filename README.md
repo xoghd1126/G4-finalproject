@@ -19,22 +19,26 @@
 |------| --------------------------------|
 | Summary video | After the break, it's a word test, but I don't know many words properly yet. |
 | Audio book | Me too. I've spent a lot of time this week, and it's still hard. |
-| Hugging face |What should we do? In order to get a score on the test, we have to remember a lot of difficult words... |
-| Presentation | Teacher, I don't remember the spelling and meaning of English words. |
+| vocabulary |What should we do? In order to get a score on the test, we have to remember a lot of difficult words... |
+| grammar | Teacher, I don't remember the spelling and meaning of English words. |
 
 🗓 6/04 Third meeting
 | Closing |  |
 |------| --------------------------------|
 | Quiz | After the break, it's a word test, but I don't know many words properly yet. |
-| audio book | Me too. I've spent a lot of time this week, and it's still hard. |
-| hugging face |What should we do? In order to get a score on the test, we have to remember a lot of difficult words... |
+| Quiz | Me too. I've spent a lot of time this week, and it's still hard. |
+|  |What should we do? In order to get a score on the test, we have to remember a lot of difficult words... |
 | presentation | Teacher, I don't remember the spelling and meaning of English words. |
 
-          To solve this problem, I'll recommend an app called ‘class card’. 
+
+          assignments
           
-          This app offers various functions to make English words easier to learn and remember. 
+         First, each group can listen to the voice made by AI.
+         Second, After listening to this, you 
+         Third, one member of each group should upload on the padlet. 
+         
           
-          You will get better results on your next test.
+          
 
 ### Our story
 The Lighthouse Keeper’s Lantern
