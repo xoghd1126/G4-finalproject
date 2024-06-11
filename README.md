@@ -29,14 +29,13 @@
 | Quiz | Sequential Arrangement Question |
 | Review | Solving the wrong question again through the AI voice |
 
+    
 
-        
-
-## The last class
+## The last class 🧐
 - Last time, the teacher presented students with a task to join the higging face.
 - Students studied the grammar of the story.
 
-## Contents of class
+## 📔 Contents of class
 ### Opening
 - Presenting a Word cloud related to the content of the story to be learned.
 - Make 4 sentences by guessing the story in groups using the words in the Word cloud.
@@ -44,12 +43,12 @@
 - Put it on your padlet in groups.
 - Presenting in groups
 
-### Reading and grammar lessons
+### 🌟 Reading and grammar lessons 🌟
 - Showing a video of the story.
 - Fill in the blanks of the words in the Word cloud by playing one sentences at a time with the audiobook.
 - Put errors in each sentences with the grammar you learned in the last class and correct them yourself.
 
-### Closing
+###  Closing 💯
 - Solving quiz questions related to the content of the story with QR code.
 - Reviewing the most wrong questions.
 
@@ -62,7 +61,7 @@
 
 
 ### 📖 Our story
-The Lighthouse Keeper’s Lantern
+💡 The Lighthouse Keeper’s Lantern 💡
 
 In a small coastal town edged by jagged cliffs and vast, open sea, stood an old lighthouse that had guarded the mariners for generations. The lighthouse keeper, Mr. Elias, was an elderly man who had spent many years ensuring the light never failed, keeping ships safe from the dangerous rocks below.
 Elias's grandson, Jamie, loved to visit the lighthouse. He was fascinated by the stories his grandfather told of ships from distant lands and the many storms the lighthouse had withstood. However, over the years, fewer ships passed by, and the town council questioned the need to keep the lighthouse operational. They proposed using modern technology, which was cheaper and required less maintenance.
