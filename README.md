@@ -30,12 +30,7 @@
 | Review | Solving the wrong question again through the AI voice |
 
 
-          📚Assignments📚
-          
-         1️⃣ Divide the story area into groups
-         2️⃣ Listening to pronunciation with ai voice
-         3️⃣ Record the content and upload it to the padlet
-         
+        
 
 ## The last class
 - Last time, the teacher presented students with a task to join the higging face.
@@ -58,8 +53,12 @@
 - Solving quiz questions related to the content of the story with QR code.
 - Reviewing the most wrong questions.
 
-## Assignments
-- Listent to the plot of the story in AI voice, record the pronunciation in groups, post it on the padlet.
+
+           📚Assignments📚
+          
+         1️⃣ Divide the story area into groups
+         2️⃣ Listening to pronunciation with ai voice
+         3️⃣ Record the content and upload it to the padlet
 
 
 ### 📖 Our story
