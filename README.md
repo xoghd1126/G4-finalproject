@@ -54,11 +54,11 @@
 - Fill in the blanks of the words in the Word cloud by playing one sentences at a time with the audiobook.
 - Put errors in each sentences with the grammar you learned in the last class and correct them yourself.
 
-### closing
+### Closing
 - Solving quiz questions related to the content of the story with QR code.
 - Reviewing the most wrong questions.
 
-# 과제
+## Assignments
 - Listent to the plot of the story in AI voice, record the pronunciation in groups, post it on the padlet.
 
 
