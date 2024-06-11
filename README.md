@@ -37,22 +37,22 @@
          3️⃣ Record the content and upload it to the padlet
          
 
-##전제
-- 지난 시간 교사는 학생에게 hugging face의 가입을 하라는 과제를 제시하였음
-- 지난 수업 시간에 이야기와 관련된 문법을 먼저 배움
+## The last class
+- Last time, the teacher presented students with a task to join the higging face.
+- Students studied the grammar of the story.
 
-## 수업 내용
-# 오프닝
-- 배울 이야기의 내용과 관련된 wordcloud 제시하기
-- 그룹별로 wordcloud를 사용하여 이야기와 관련된 4문장을 만들기
-- hugging face에 네컷만화 만들기
-- padlet에 조별로 올리기
-- 조별로 발표
+## Contents of class
+### Opening
+- Presenting a wordcloud related to the content of the story to be learned.
+- Make 4 sentences by guessing the story in groups using the words in the wordcloud.
+- GO into hugging face and make a four-cut cartoon.
+- Put it on your padlet in groups.
+- Presenting in groups
 
-# 본문 수업
-- summary video 보여주기
+## Reading and grammar lessons
+- Showing a video of the story.
 - 오디오북으로 한문장씩 들려주면서 wordcloud에 나오는 단어들로 이루어진 빈칸 부분 스스로 채우기
-- 지난 수업시간에 배운 문법으로 문장마다 문법적 오류를 넣고 학생들이 이를 직접 수정하기
+- Put errors in each sentences with the grammar you learned in the last class and correct them yourself.
 
 # 클로징
 - 큐알코드로 이야기의 내용과 관련된 퀴즈 문제 풀기
