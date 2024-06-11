@@ -36,8 +36,31 @@
          2️⃣ Listening to pronunciation with ai voice
          3️⃣ Record the content and upload it to the padlet
          
-          
-          
+
+##전제
+- 지난 시간 교사는 학생에게 hugging face의 가입을 하라는 과제를 제시하였음
+- 지난 수업 시간에 이야기와 관련된 문법을 먼저 배움
+
+## 수업 내용
+# 오프닝
+- 배울 이야기의 내용과 관련된 wordcloud 제시하기
+- 그룹별로 wordcloud를 사용하여 이야기와 관련된 4문장을 만들기
+- hugging face에 네컷만화 만들기
+- padlet에 조별로 올리기
+- 조별로 발표
+
+# 본문 수업
+- summary video 보여주기
+- 오디오북으로 한문장씩 들려주면서 wordcloud에 나오는 단어들로 이루어진 빈칸 부분 스스로 채우기
+- 지난 수업시간에 배운 문법으로 문장마다 문법적 오류를 넣고 학생들이 이를 직접 수정하기
+
+# 클로징
+- 큐알코드로 이야기의 내용과 관련된 퀴즈 문제 풀기
+- 가장 많이 틀린 문제 함께 복습하기
+
+# 과제
+- 조별로 이야기의 줄거리를 ai목소리를 듣고 발음을 녹음해서 padlet에 올리기
+
 
 ### 📖 Our story
 The Lighthouse Keeper’s Lantern
