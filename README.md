@@ -43,23 +43,23 @@
 
 ## Contents of class
 ### Opening
-- Presenting a wordcloud related to the content of the story to be learned.
-- Make 4 sentences by guessing the story in groups using the words in the wordcloud.
+- Presenting a Word cloud related to the content of the story to be learned.
+- Make 4 sentences by guessing the story in groups using the words in the Word cloud.
 - GO into hugging face and make a four-cut cartoon.
 - Put it on your padlet in groups.
 - Presenting in groups
 
-## Reading and grammar lessons
+### Reading and grammar lessons
 - Showing a video of the story.
-- 오디오북으로 한문장씩 들려주면서 wordcloud에 나오는 단어들로 이루어진 빈칸 부분 스스로 채우기
+- Fill in the blanks of the words in the Word cloud by playing one sentences at a time with the audiobook.
 - Put errors in each sentences with the grammar you learned in the last class and correct them yourself.
 
-# 클로징
-- 큐알코드로 이야기의 내용과 관련된 퀴즈 문제 풀기
-- 가장 많이 틀린 문제 함께 복습하기
+### closing
+- Solving quiz questions related to the content of the story with QR code.
+- Reviewing the most wrong questions.
 
 # 과제
-- 조별로 이야기의 줄거리를 ai목소리를 듣고 발음을 녹음해서 padlet에 올리기
+- Listent to the plot of the story in AI voice, record the pronunciation in groups, post it on the padlet.
 
 
 ### 📖 Our story
