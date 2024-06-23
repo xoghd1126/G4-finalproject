@@ -33,9 +33,12 @@
 -----------------------------------------
     
 
-## The last class 🧐
-- Last time, the teacher presented students with a task to join the higging face.
-- Students studied the grammar of the story.
+## What we did in the last class 🧐
+
+1. Learning the wordsin the text
+2. Interpretation of content
+3. Vocabulary learning 
+
 
 ## 📔 Contents of class
 ### Opening
@@ -45,10 +48,14 @@
 - Put it on your padlet in groups.
 - Presenting in groups
 
+
 ### 🌟 Reading and grammar lessons 🌟
-- Showing a video of the story.
-- Fill in the blanks of the words in the Word cloud by playing one sentences at a time with the audiobook.
-- Put errors in each sentences with the grammar you learned in the last class and correct them yourself.
+- Showing a summary video of the story.
+- Learning grammar in the text with ppt
+  1. 
+  2. 
+- 
+
 
 ###  Closing 💯
 - Solving quiz questions related to the content of the story with QR code.
