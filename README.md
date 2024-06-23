@@ -52,21 +52,24 @@
 ### 🌟 Reading and grammar lessons 🌟
 - Showing a summary video of the story.
 - Learning grammar in the text with ppt
-  1. 
-  2. 
-- 
+  1. Verb tense
+  2. Past Simple
+  3. Past Perfect
+  4. Past Continuous
+
+- Grammar Activity
+
+  1. Draw the correct past tense line for each word
+  2. The student corrects each sentence with errors through the grammar learned in the last class
 
 
 ###  Closing 💯
-- Solving quiz questions related to the content of the story with QR code.
-- Reviewing the most wrong questions.
-
 
            📚Assignments📚
           
-         1️⃣ Divide the story area into groups
-         2️⃣ Listening to pronunciation with ai voice
-         3️⃣ Record the content and upload it to the padlet
+         1️⃣ Listening to pronunciation with ai voice
+         2️⃣ Record the content
+         3️⃣ Email the teacher a recording file.
 
 
 ### 📖 Our story
