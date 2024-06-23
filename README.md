@@ -18,16 +18,15 @@
 | Lesson |  |
 |------| --------------------------------|
 | Summary video | Showing a video of the story |
-| Audio book | Let's play one sentence at a time with the audiobook |
-| Vocabulary | In the story, the words in the wordcloud are blank, and the students fill in the part by themselves |
-| Grammar | The student corrects each sentence with errors through the grammar learned in the last class |
+| Grammar Learning | Learn with the past tense ppt shown in the text |
+| Grammar Activity 1 | Draw the correct past tense line for each word |
+| Grammar Activity 2 | The student corrects each sentence with errors through the grammar learned in the last class |
+
 
 🗓 6/04 Third meeting
 | Closing |  |
 |------| --------------------------------|
-| Quiz | True or False question |
-| Quiz | Sequential Arrangement Question |
-| Review | Solving the wrong question again through the AI voice |
+| Speaking | Recording task using AI voice to improve speaking skills |
 
     
 
